@@ -1,0 +1,10 @@
+titleHeader {
+    font-size: 40px;
+    font-style: oblique;
+    color: green;
+}
+
+.text {
+    font-size: 15px;
+    color: gray;
+}
